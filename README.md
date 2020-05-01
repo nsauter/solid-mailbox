@@ -11,7 +11,7 @@ The goal of Solid Mailbox is to:
 
 * Make deploying a good and simple mail server easy.
 * Promote [decentralization](http://redecentralize.org/), innovation, and privacy on the web.
-* Make a secure server but **not** completely unhackable.
+* Make a lightweight & secure but **not** completely unhackable server.
 
 The Box
 -------
