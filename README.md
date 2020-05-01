@@ -31,7 +31,7 @@ The components installed are:
 
 And optional functions:
 
-* Webmail ([Roundcube](http://roundcube.net/)), static website hosting ([nginx](http://nginx.org/))
+* Webmail ([Roundcube](http://roundcube.net/)) with static website hosting ([apache](https://httpd.apache.org/))
 * System monitoring ([monit](https://mmonit.com/monit/))
 
 For more information on how Solid Mailbox handles your privacy, see the [security details page](security.md).
