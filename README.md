@@ -36,7 +36,7 @@ And optional functions:
 
 Secured by:
 
-* ([LetsEncrypt](https://letsencrypt.org/de/about/))
+* [LetsEncrypt](https://letsencrypt.org/de/about/)
 
 For more information on how Solid Mailbox handles your privacy, see the [security details page](security.md).
 
