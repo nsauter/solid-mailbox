@@ -31,8 +31,12 @@ The components installed are:
 
 And optional functions:
 
-* Webmail ([Roundcube](http://roundcube.net/)) with static website hosting ([apache](https://httpd.apache.org/))
+* ([apache](https://httpd.apache.org/)) Webserver with a Webmail ([Roundcube](http://roundcube.net/)) installation
 * System monitoring ([monit](https://mmonit.com/monit/))
+
+Secured by:
+
+* ([LetsEncrypt](https://letsencrypt.org/de/about/))
 
 For more information on how Solid Mailbox handles your privacy, see the [security details page](security.md).
 
